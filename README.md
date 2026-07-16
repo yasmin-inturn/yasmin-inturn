@@ -1,7 +1,7 @@
 
 # Hi, I'm Yasmin 🌷
 
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79DCE&width=435&lines=Back-end+Developer;IT+Student+at+%40+UNIVALI;Tech+Content+Creator;%E2%99%A1%EF%BD%A5%EF%BE%9F%3A*%EF%BD%A1.%3A*%EF%BD%A5%EF%BE%9F" alt="Typing SVG" /></a>
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79DCE&width=435&lines=Back-end+Developer;IT+Student+at+%40+UNIVALI;Tech+Content+Creator;%E2%99%A1%EF%BD%A5%EF%BE%9F%3A*%EF%BD%A1.%3A*%EF%BD%A5%EF%BE%9F" alt="Typing SVG" />
 
 </div>
 
