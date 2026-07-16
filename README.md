@@ -23,7 +23,7 @@ Currently pursuing an IT degree at UNIVALI. I also create tech content for begin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E2F3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E2F3A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-inturn-894279315/)
 [![Instagram](https://img.shields.io/badge/Instagram-E8AEB7?style=for-the-badge&logo=instagram&logoColor=6E2F3A)](https://instagram.com/yas.inturn)
 
 </div>
