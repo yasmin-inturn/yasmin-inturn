@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="assets/yas-pixel.png" width="150" alt="Yas — pixel art avatar" />
 
 # Hi, I'm Yasmin 🌷
 
