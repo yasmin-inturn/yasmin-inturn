@@ -19,15 +19,6 @@ Currently pursuing an IT degree at UNIVALI. I also create tech content for begin
 ![Git](https://img.shields.io/badge/Git-5F6E4E?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E8AEB7?style=for-the-badge&logo=javascript&logoColor=6E2F3A)
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yasmini-mp3&show_icons=true&hide_border=true&bg_color=FBF1ED&title_color=6E2F3A&text_color=5F6E4E&icon_color=BFA055&ring_color=E8AEB7" height="160" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmini-mp3&layout=compact&hide_border=true&bg_color=FBF1ED&title_color=6E2F3A&text_color=5F6E4E" height="160" alt="Most used languages" />
-
-</div>
-
 ## Let's Connect
 
 <div align="center">
