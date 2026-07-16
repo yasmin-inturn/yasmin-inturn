@@ -1,7 +1,7 @@
 
 # Hi, I'm Yasmin 🌷
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=16&duration=3000&pause=800&color=6E2F3A&center=true&vCenter=true&width=500&lines=Back-end+%2F+Developer;IT+Student+%40+UNIVALI;Tech+Content+Creator" alt="ADVPL/Protheus Developer · IT Student · Tech Content Creator" />
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F79DCE&width=435&lines=Back-end+Developer;IT+Student+at+%40+UNIVALI;Tech+Content+Creator;%E2%99%A1%EF%BD%A5%EF%BE%9F%3A*%EF%BD%A1.%3A*%EF%BD%A5%EF%BE%9F" alt="Typing SVG" /></a>
 
 </div>
 
